@@ -1,0 +1,16 @@
+{
+  "project": "Air Quality Monitoring",
+  "executed_utc": "2026-11-21T10:14:10.854462+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/airquality.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/airquality.html",
+  "sha256": "65d2c4afd976c169af9bb0bd97e9e78e1e8a185f1b52e2e3153e30f90c7fb5f8",
+  "raw_rows": 153,
+  "analysis_rows": 116,
+  "excluded_rows": 37,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}

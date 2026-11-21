@@ -1,0 +1,14 @@
+{
+  "id": 7,
+  "title": "Air Quality Monitoring",
+  "question": "How does ozone concentration vary by month?",
+  "x": "Month",
+  "y": "Ozone",
+  "mode": "group",
+  "caveat": "New York 1973 summer observations contain missing measurements and serial dependence.",
+  "action": "Inspect monitoring coverage before comparing months.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/airquality.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/airquality.html",
+  "metric_label": "mean Ozone",
+  "method": "Complete-case descriptive comparison of Ozone by Month; show group counts, mean, minimum and maximum."
+}
